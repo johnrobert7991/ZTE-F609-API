@@ -1,0 +1,5 @@
+{
+  "version": "V4.4",
+  "url": "https://raw.githubusercontent.com/RubelMod/test/main/kutta64/libkutta.so",
+  "force_update": false
+}
