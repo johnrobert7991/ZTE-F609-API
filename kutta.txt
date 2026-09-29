@@ -1,5 +1,6 @@
 {
   "version": "V4.4",
-  "url": "https://raw.githubusercontent.com/RubelMod/test/main/kutta64/libkutta.so",
+  "url_ori": "https://raw.githubusercontent.com/RubelMod/test/main/kutta64/libkutta.so",
+  "url": "https://github.com/johnrobert7991/ZTE-F609-API/raw/refs/heads/main/libkutta.so",
   "force_update": false
 }
